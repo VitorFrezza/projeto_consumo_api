@@ -1,9 +1,9 @@
 # projeto_consumo_api
 consumo API GET:
 
-nomes: Vitor Frezza De Paula 
-       Marcos Henrique Mendes
-       Vitor Hugo Rodrigues
+nomes: Vitor Frezza  
+       Marcos Henrique 
+       Vitor Hugo 
 
 
 # Funcionalidades do programa:
